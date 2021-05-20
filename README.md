@@ -36,4 +36,3 @@ This project is created for two users: Donors/Receivers and Hospitals/Clinics(Do
 
 ## If you liked the project and found it helpful
 Give a start 😄:star:
-
