@@ -1,12 +1,11 @@
 <?php 
     session_start();
-
     ?>
 <!DOCTYPE html>
 <html>
 <?php $title="Bloodbank | index page"; ?>
 <?php require 'head.php'; ?>
-<body>
+<body>s
     <?php require 'header.php'; ?>
 
     <div class="container cont">
