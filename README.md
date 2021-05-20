@@ -36,3 +36,16 @@ This project is created for two users: Donors/Receivers and Hospitals/Clinics(Do
 
 ## If you liked the project and found it helpful
 Give a start 😄:star:
+
+## If you want to run on Local Server XAMPP
+Change the file/connection code to -
+...
+
+```php
+<?php
+$conn=mysqli_connect('localhost','root','') or die('Cannot connect to server');
+mysqli_select_db($conn,'bloodbank') or die ('Cannot found database');
+?>
+    
+
+
